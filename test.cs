@@ -1,1 +1,0 @@
-Console.WriteLine("김세희 확인했습니다.")
